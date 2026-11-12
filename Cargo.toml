@@ -1,0 +1,8 @@
+[package]
+name = "marketplace-ab-handoff"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "marketplace-ab-handoff"
+path = "src/main.rs"
